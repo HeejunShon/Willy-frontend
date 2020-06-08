@@ -9,7 +9,7 @@ Pilly 맞춤영양제 [필리 공식 홈페이지](https://pilly.kr/) clone proj
 
 ### 데모 영상
 - A demo will be uploaded soon
----
+--
 ### 기술
 - React.js (Functional Components)
 - styled-components
