@@ -20,7 +20,7 @@ Pilly 맞춤영양제 [필리 공식 홈페이지](https://pilly.kr/) clone proj
 - 메인 페이지
 - 슬라이더
 - 회원가입 / 로그인
-- 소셜 로그인 (with Kakao)
+- 소셜 로그인 (with Kakao API)
 - 동적 설문조사 및 유저 맞춤 결과 페이지
 - 원형 로딩바 (with canvas)
 - 예외 처리 Toast 모달 (with react-toastify)
